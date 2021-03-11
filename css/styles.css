@@ -12,21 +12,21 @@ h2
 color: #121013;
 }
 p{
-  font-size: 35px;
+  font-size: 25px;
   font-family: 'Jost', sans-serif;
 }
 p1{
   position: relative;
   color : white;
-  font-size: 50px;
+  font-size: 40px;
   margin-left:100px;
   font-family: 'Jost', sans-serif;
 }
 p2{
   position: relative;
   color : white;
-  font-size: 50px;
-  margin-left:100px;
+  font-size: 40px;
+  margin-left:80px;
   font-family: 'Jost', sans-serif;
 }
 hr{
