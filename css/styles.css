@@ -22,7 +22,8 @@ p1{
   margin-left:100px;
   font-family: 'Jost', sans-serif;
 }
-p2{position: relative;
+p2{
+  position: relative;
   color : white;
   font-size: 50px;
   margin-left:100px;
