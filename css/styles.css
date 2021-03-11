@@ -13,12 +13,14 @@ color: #121013;
 }
 p{
   font-size: 20px;
+  font-family: 'Jost', sans-serif;
 }
 p1{
+  position: relative;
   color : white;
   font-size: 30px;
-  text-align: center;
-  font-style:Italic;
+  margin-left:100px;
+  font-family: 'Jost', sans-serif;
 }
 hr{
  border-style: none;
