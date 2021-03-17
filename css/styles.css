@@ -9,6 +9,7 @@ body{
   margin: 50px auto 0 auto;
    padding-top:20px;
    padding-bottom:20px;
+   text-align: center;
 }
 
 h2
@@ -26,12 +27,6 @@ p1{
   margin-left:200px;
   font-family: 'Jost', sans-serif;
 }
-p2{
-  position: relative;
-  color : white;
-  font-size: 2.5rem;
-  margin-left:200px;
-  font-family: 'Jost', sans-serif;
 }
 hr{
  border-style: none;
